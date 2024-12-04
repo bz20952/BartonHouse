@@ -1,2 +1,4 @@
-# BartonHouse
-A collection of economic and thermodynamic models used to assess the feasibility of a network ground-source heat pump system for Barton House, Bristol.
+# Barton House GSHP/solar/BESS feasibility
+Models found in this repository were used to assess the feasibility of GSHPs, solar panels and BESS.
+
+Stakeholders analysis and risk register are also included.
